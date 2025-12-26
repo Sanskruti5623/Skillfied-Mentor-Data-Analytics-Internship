@@ -1,0 +1,54 @@
+## Task 01 – Banking Data Analysis
+
+### 📌 Objective
+The objective of this task is to analyze banking customer data to identify patterns, trends, and insights that can support data-driven decision-making in the banking domain.
+
+---
+
+### 📊 Dataset Description
+The dataset contains customer-related banking information such as:
+- Age
+- Job
+- Marital status
+- Education
+- Balance
+- Loan status
+- Account-related attributes
+
+---
+
+### 🛠 Tools & Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+### 🔍 Analysis Performed
+- Data cleaning and preprocessing
+- Handling missing and inconsistent values
+- Exploratory Data Analysis (EDA)
+- Visualization of customer behavior
+- Pattern identification based on demographic and financial attributes
+
+---
+
+### 📈 Key Insights
+- Identified customer segments based on balance and loan status
+- Observed trends across age groups and professions
+- Analyzed relationships between customer attributes and banking behavior
+
+---
+
+### 📁 Files Included
+- banking_data.csv – Dataset used for analysis  
+- banking_data_analysis.ipynb – Complete analysis notebook  
+- README.md – Task documentation  
+
+---
+
+### ✅ Outcome
+This task helped build a strong foundation in real-world data analysis by applying EDA techniques and extracting actionable insights from banking data.
